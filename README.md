@@ -21,9 +21,9 @@
 
 
 ## 🌟 Featured Projects  
-🔹 [Real-time Chat Application](https://github.com/PriyankaGupta111/chat-app) – A MERN stack chat app with socket.io.  
+🔹 [Real-time Chat Application](https://github.com/PriyankaGupta111/realtime-chat-app) – A MERN stack chat app with socket.io.  
 🔹 [Portfolio Website](https://github.com/PriyankaGupta111/portfolio) – Personal portfolio built using React & Tailwind.  
-🔹 [DSA Practice](https://github.com/PriyankaGupta111/DSA-Practice) – My structured solutions to LeetCode problems.  
+🔹 [DSA Practice](https://github.com/PriyankaGupta111/Striver-DSA-A2Z-Solutions) – My structured solutions to LeetCode problems.  
 
 ---
 
