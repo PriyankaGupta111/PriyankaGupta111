@@ -3,7 +3,7 @@
 💻 MERN Stack Developer | 🎯 DSA Enthusiast | 📚 Lifelong Learner  
 
 🔹 Passionate about building scalable web applications and solving challenging problems using **Java + DSA**.  
-🔹 Currently pursuing **B.Tech CSE (CGPA: 8.5)** from FET Agra.  
+
 🔹 Exploring **Open Source Contributions** and **Machine Learning**.  
 
 ---
@@ -21,7 +21,7 @@
 
 
 ## 🌟 Featured Projects  
-🔹 [Real-time Chat Application](https://github.com/PriyankaGupta111/realtime-chat-app) – A MERN stack chat app with socket.io.  
+🔹 [Real-time Chat Application](https://github.com/PriyankaGupta111/Gup-Shup-Chat-App-MERNGup-Shup-Chat-App-MERN) – A MERN stack chat app with socket.io.  
 🔹 [Portfolio Website](https://github.com/PriyankaGupta111/portfolio) – Personal portfolio built using React & Tailwind.  
 🔹 [DSA Practice](https://github.com/PriyankaGupta111/Striver-DSA-A2Z-Solutions) – My structured solutions to LeetCode problems.  
 
